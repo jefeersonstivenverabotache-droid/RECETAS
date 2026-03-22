@@ -1,0 +1,45 @@
+div{
+  width: 500px;
+  border-radius: 30px;
+ background-color: white;
+ padding: 19px;
+ margin: 68px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 20px;
+ box-shadow: 15px 18px 12px blue;
+ 
+ 
+}
+  body{
+background-image: url(pizza.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+  }
+  h1{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 15px 56px 90px red;
+    font-size: 36px;
+
+  }
+  p{
+    color: yellow;
+  font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 2px 13px 22px green;
+  }
+  h2{
+    color: red;
+    font-size: 45px;
+  text-shadow: 16px 16px 34px red;
+    font-family: 'Times New Roman;
+  }
+  img{
+    border-radius: 300px;
+  
+  }
+  
+
+  
+  
